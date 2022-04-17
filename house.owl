@@ -10,8 +10,7 @@
      xmlns:house="http://www.semanticweb.org/manuelir/ontologies/2022/3/house#"
      xmlns:swrlb="http://www.w3.org/2003/11/swrlb#">
     <owl:Ontology rdf:about="http://www.semanticweb.org/manuelir/ontologies/2022/3/house">
-        <rdfs:comment>A  House MD dataset
-authors: Jaime Aguila, Manuel Ibanez</rdfs:comment>
+        <rdfs:comment>A  House MD dataset authors: Jaime Aguila, Manuel Ibanez</rdfs:comment>
     </owl:Ontology>
     
 
